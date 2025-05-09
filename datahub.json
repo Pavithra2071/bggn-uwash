@@ -1,0 +1,44 @@
+[
+  {
+    "type": "bed",
+    "name": "Normal H3K27ac R1 (13N)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246840_25-13N-H3K27ac-R1.narrowPeak.gz",
+    "options": { "color": "skyblue" },
+    "showOnHubLoad": true
+  },
+  {
+    "type": "bed",
+    "name": "Normal H3K27ac R2 (13N)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246841_25-13N-H3K27ac-R2.narrowPeak.gz",
+    "options": { "color": "deepskyblue" },
+    "showOnHubLoad": true
+  },
+  {
+    "type": "bed",
+    "name": "Tumor H3K27ac R1 (13T)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246843_25-13T-H3K27ac-R1.narrowPeak.gz",
+    "options": { "color": "salmon" },
+    "showOnHubLoad": true
+  },
+  {
+    "type": "bed",
+    "name": "Tumor H3K27ac R2 (13T)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246845_25-13T-H3K27ac-R2.narrowPeak.gz",
+    "options": { "color": "tomato" },
+    "showOnHubLoad": true
+  },
+  {
+    "type": "bed",
+    "name": "Normal H3K27ac R1 (14N)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246846_25-14N-H3K27ac-R1.narrowPeak.gz",
+    "options": { "color": "lightblue" },
+    "showOnHubLoad": true
+  },
+  {
+    "type": "bed",
+    "name": "Tumor H3K27ac R1 (14T)",
+    "url": "https://raw.githubusercontent.com/Pavithra2071/bggn-uwash/main/GSM7246848_25-14T-H3K27ac-R1.narrowPeak.gz",
+    "options": { "color": "firebrick" },
+    "showOnHubLoad": true
+  }
+]
